@@ -1,5 +1,5 @@
 # ATTINY_MOS_CONTROLLED_LOAD
-Key Components
+**Key Components**
 
 U1 (ATtiny85)
 Small 8-pin microcontroller providing logic control signals on its GPIO pins.
